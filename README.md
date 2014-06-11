@@ -1,3 +1,6 @@
+*This demo is cloned from [map-android-demo](https://github.com/mapbox/mapbox-android-demo), a public demo of Mapbox Android SDK.*
+
+
 # MapBoxAndroidDemo
 
 This is a public demo of the Mapbox Android SDK that's [available now in the Google Play Store](https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo).
