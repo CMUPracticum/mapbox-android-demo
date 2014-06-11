@@ -1,0 +1,4 @@
+<!-- From: file:/Users/bleege/development/MapboxAndroidSDK/MapboxAndroidSDK/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.mapbox.mapboxsdk">
+    <application android:allowBackup="true"/>
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="19"/>
+</manifest>
